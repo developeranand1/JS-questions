@@ -1,0 +1,21 @@
+.testimonial-desc{
+    font-size: 14px;
+    font-weight: 600;
+    padding: 4px;
+}
+
+.user-img{
+border: 2px solid var(--primary);
+padding: 2px;
+border-radius: 50%;
+}
+
+.user-name{
+    font-size: 14px;
+    font-weight: 600;
+    color: var(--primary);
+}
+
+.user-designation{
+    font-size: 10px;
+}

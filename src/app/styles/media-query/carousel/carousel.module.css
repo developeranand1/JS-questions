@@ -1,0 +1,31 @@
+.carouselContainer {
+    width: 100%;
+    padding: 0;
+  }
+  
+  /* Responsive heights */
+  .carouselItem {
+    position: relative;
+    width: 100%;
+    height: 60vh;
+    aspect-ratio: 16 / 9;
+  }
+  
+  @media (max-width: 768px) {
+    .carouselItem {
+      height: 30vh;
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    .carouselItem {
+      height: 40vh;
+    }
+  }
+  
+  @media (min-width: 1025px) {
+    .carouselItem {
+      height: 60vh;
+    }
+  }
+  

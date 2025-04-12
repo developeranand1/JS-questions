@@ -1,0 +1,25 @@
+.loginBgStyle{
+    background-image: url('/imgs/auth/login.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    overflow: hidden;
+    padding: 20px 0px;
+}
+
+.noBoxShadow {
+    
+    box-shadow: none !important;
+    transition: none !important;
+    top: -93px;
+    box-shadow: none !important;
+    transition: none !important;
+    max-width: 90% !important;
+    min-width: 60%;
+}
+
+.noBoxShadow:hover {
+    box-shadow: none !important;
+    transform: none !important
+}

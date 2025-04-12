@@ -1,0 +1,33 @@
+.searchIcons{
+    position: relative;
+
+    .search{
+            position: absolute;
+            right: 5%;
+            top: -24px;
+            color: var(--primary) !important;
+    }
+}
+
+.productCards{
+    border: 1px solid var(--primary);
+}
+
+.productName{
+    color: var(--primary);
+    font-size: 14px;
+}
+
+
+.productFee{
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.oldFee{
+    font-size: 12px;
+    color: var(--third);
+    text-decoration:line-through;
+    padding-left: 10px;
+}
+

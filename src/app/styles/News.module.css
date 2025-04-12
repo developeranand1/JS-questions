@@ -1,0 +1,22 @@
+.newsDescription{
+    font-size: 14px;
+}
+
+.newsTitle{
+    color:var(--primary);
+    font-size: 15px;
+    font-weight: 600;
+    line-height: 30px;
+}
+
+.newsEnglishTitle{
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--primary);
+}
+
+.dateSize{
+    font-size: 12px;
+    font-weight: 600;
+}
+
